@@ -1,0 +1,26 @@
+/* wrapper style */
+.wrapper {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* header style */
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* main style */
+section {
+    text-align: center;
+}
+
+#trackingNumber {
+    padding: 20px 100px;
+    display: inline-block;
+    justify-content: center;
+    background: lightgrey;
+    text-align: center;
+    border-bottom: 3px solid red;
+}
